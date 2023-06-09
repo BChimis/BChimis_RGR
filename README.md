@@ -9,6 +9,7 @@ Node.js - https://nodejs.org/en
 JQuery - https://jquery.com/
 
 Также, это можно сделать с помощью комманд:
+
 npm install node
 
 npm install jquery
